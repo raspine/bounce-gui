@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# vim
+Session.vim*
+compile_commands.json
+
+# build
+build/
+
+# imgui
+imgui.ini
